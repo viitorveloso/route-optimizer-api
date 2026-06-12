@@ -1,0 +1,27 @@
+{
+  "name": "route-optimizer-api",
+  "version": "1.0.0",
+  "description": "Delivery route optimization API (TSP) in pure Node.js — nearest-neighbor + 2-opt, zero dependencies",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test",
+    "benchmark": "node benchmarks/benchmark.js"
+  },
+  "keywords": [
+    "tsp",
+    "route-optimization",
+    "2-opt",
+    "nearest-neighbor",
+    "nodejs",
+    "zero-dependencies",
+    "worker-threads"
+  ],
+  "author": "Lucas",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

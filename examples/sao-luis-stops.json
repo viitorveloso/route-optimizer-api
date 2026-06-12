@@ -1,0 +1,16 @@
+{
+  "stops": [
+    { "id": "deposito", "name": "Depósito - Centro", "lat": -2.5297, "lng": -44.3028 },
+    { "id": "c01", "name": "Cliente - Ponta d'Areia", "lat": -2.488, "lng": -44.3046 },
+    { "id": "c02", "name": "Cliente - São Francisco", "lat": -2.5052, "lng": -44.2906 },
+    { "id": "c03", "name": "Cliente - Renascença", "lat": -2.4979, "lng": -44.2933 },
+    { "id": "c04", "name": "Cliente - Olho d'Água", "lat": -2.4866, "lng": -44.2546 },
+    { "id": "c05", "name": "Cliente - Calhau", "lat": -2.4856, "lng": -44.2367 },
+    { "id": "c06", "name": "Cliente - Turu", "lat": -2.5126, "lng": -44.2207 },
+    { "id": "c07", "name": "Cliente - Cohama", "lat": -2.5246, "lng": -44.2497 },
+    { "id": "c08", "name": "Cliente - Anil", "lat": -2.5394, "lng": -44.2475 },
+    { "id": "c09", "name": "Cliente - Cohab", "lat": -2.553, "lng": -44.2293 },
+    { "id": "c10", "name": "Cliente - Paço do Lumiar", "lat": -2.5316, "lng": -44.1054 }
+  ],
+  "options": { "roundTrip": true }
+}
